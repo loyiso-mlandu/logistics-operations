@@ -1,77 +1,72 @@
 # Logistics Operations Analysis
 
-## Project Overview
+An end-to-end logistics data analysis project using **PostgreSQL, SQL, and Power BI** to evaluate operational performance, efficiency, profitability, and service levels.
 
-This project analyzes logistics operations data using PostgreSQL and Power BI to evaluate operational efficiency, profitability, fleet performance, customer service, and safety.
+## 🔎 Project Focus
 
-The analysis combines data from drivers, vehicles, routes, trips, deliveries, fuel, maintenance, customers, and safety incidents to identify performance trends and areas for operational improvement.
+The analysis covers eight key areas:
 
-## Business Questions
+1. **Driver Performance** — On-time delivery, fuel efficiency, and revenue per mile
+2. **Route Profitability** — Revenue, costs, and profitability by lane
+3. **Fleet Utilization** — Miles per truck and revenue per asset
+4. **Maintenance Analysis** — Maintenance costs and vehicle downtime
+5. **Fuel Efficiency** — MPG trends and fuel costs by route
+6. **Customer Analysis** — Revenue, shipment volume, and service levels
+7. **Safety Metrics** — Incident rates and preventable accidents
+8. **Seasonal Patterns** — Load volume and rate fluctuations
 
-The analysis focuses on eight key areas:
+## 🛠️ Tools
 
-1. **Driver Performance**
-   - Which drivers have the highest on-time delivery rates?
-   - Which drivers are most fuel-efficient?
-   - Which drivers generate the highest revenue per mile?
+- **PostgreSQL** — Database management and SQL analysis
+- **SQL** — Data preparation, KPI calculation, aggregation, and analysis
+- **Power BI** — Data visualization and dashboard development
 
-2. **Route Profitability**
-   - Which routes generate the highest revenue?
-   - Which lanes are most and least profitable?
-   - How do operating costs affect route profitability?
+## 📊 Key Findings
 
-3. **Fleet Utilization**
-   - How many miles are being driven per truck?
-   - Which assets generate the most revenue?
-   - How effectively is the fleet being utilized?
+### Driver Performance
 
-4. **Maintenance Analysis**
-   - What are the maintenance costs by vehicle?
-   - What is the maintenance cost per mile?
-   - How does vehicle downtime affect operations?
+**Overall averages**
 
-5. **Fuel Efficiency**
-   - How does MPG vary across routes and periods?
-   - Which routes have the highest fuel costs?
-   - Where are opportunities to improve fuel efficiency?
+| Metric | Fleet Average |
+|---|---:|
+| On-time delivery rate | **44.60%** |
+| Miles per gallon | **6.50 MPG** |
+| Revenue per mile | **$2.15** |
 
-6. **Customer Analysis**
-   - Which customers generate the most revenue?
-   - Which customers have the highest shipment volume?
-   - How well are customer service levels being maintained?
+**Performance highlights**
 
-7. **Safety Metrics**
-   - What are the incident and accident rates?
-   - Which areas have higher safety risks?
-   - What proportion of incidents are preventable?
+- **13 of 124 drivers (10.5%)** recorded above-average performance across all three metrics.
+- **60 of 124 drivers (48.4%)** recorded an above-average on-time delivery rate.
+- **51 of 124 drivers (41.1%)** recorded above-average fuel efficiency.
+- **46 of 124 drivers (37.1%)** generated above-average revenue per mile.
+- **Jessica Johnson** recorded the highest on-time delivery rate at **50.77%**; **Mary Wilson** recorded the lowest at **36.52%**.
+- **Barbara Moore** recorded the highest fuel efficiency at **6.56 MPG**; **Mary Williams** recorded the lowest at **6.44 MPG**.
+- **John Davis** recorded the highest revenue per mile at **$2.21**; **Robert Moore** recorded the lowest at **$2.09**.
 
-8. **Seasonal Patterns**
-   - How does load volume change over time?
-   - How do revenue and rates fluctuate by period?
-   - Are there identifiable seasonal trends?
+### Route Profitability
 
-## Tools & Technologies
+*Analysis in progress.*
 
-- **PostgreSQL** – database creation, data loading, querying, and analysis
-- **SQL** – data aggregation, KPI calculation, filtering, joins, and performance analysis
-- **Power BI** – data visualization and dashboard development
+### Fleet Utilization
 
-## Dataset
+*Analysis in progress.*
 
-The project uses logistics datasets covering:
+### Maintenance Analysis
 
-- Customers
-- Drivers
-- Delivery events
-- Driver monthly metrics
-- Facilities
-- Fuel purchases
-- Loads
-- Maintenance records
-- Routes
-- Safety incidents
-- Trailers
-- Trips
-- Truck utilization metrics
-- Trucks
+*Analysis in progress.*
 
+### Fuel Efficiency
+
+*Analysis in progress.*
+
+### Customer Analysis
+
+*Analysis in progress.*
+
+### Safety Metrics
+
+*Analysis in progress.*
+
+### Seasonal Patterns
+
+*Analysis in progress.*
