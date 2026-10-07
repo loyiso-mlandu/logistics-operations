@@ -7,7 +7,7 @@ An end-to-end logistics data analysis project using **PostgreSQL, SQL, and Power
 The analysis covers eight key areas:
 
 1. **Driver Performance** — On-time delivery, fuel efficiency, and revenue per mile
-2. **Route Profitability** — Revenue, costs, and profitability by lane
+2. **Route Revenue** — Revenue by lane
 3. **Fleet Utilization** — Miles per truck and revenue per asset
 4. **Maintenance Analysis** — Maintenance costs and vehicle downtime
 5. **Fuel Efficiency** — MPG trends and fuel costs by route
@@ -43,9 +43,21 @@ The analysis covers eight key areas:
 - **Barbara Moore** recorded the highest fuel efficiency at **6.56 MPG**; **Mary Williams** recorded the lowest at **6.44 MPG**.
 - **John Davis** recorded the highest revenue per mile at **$2.21**; **Robert Moore** recorded the lowest at **$2.09**.
 
-### Route Profitability
+### Route Revenue
 
-*Analysis in progress.*
+### Average Revenue per Load
+
+- **Charlotte, NC → Portland, OR** recorded the highest average base revenue per load at **$7,077.37**, while **New York, NY → Philadelphia, PA** recorded the lowest at **$148.21**.
+- **Seattle, WA → Charlotte, NC** recorded the highest average fuel surcharge at **$891.82**, while **Philadelphia, PA → New York, NY** recorded the lowest at **$13.80**.
+- **Kansas City, MO → Charlotte, NC** recorded the highest average accessorial charges at **$74.64**, while **Memphis, TN → Minneapolis, MN** recorded the lowest at **$67.16**.
+- **Charlotte, NC → Portland, OR** generated the highest average total revenue per load at **$7,963.96**, while **New York, NY → Philadelphia, PA** generated the lowest at **$237.56**.
+
+### Total Revenue (2022–2024)
+
+- **Philadelphia, PA → Seattle, WA** generated the highest base revenue at **$10.07M**, while **New York, NY → Philadelphia, PA** generated the lowest at **$217.57K**.
+- **Seattle, WA → Charlotte, NC** generated the highest total fuel surcharge at **$1.31M**, while **Philadelphia, PA → New York, NY** generated the lowest at **$21.21K**.
+- **Columbus, OH → Philadelphia, PA** generated the highest accessorial charges at **$115.10K**, while **Miami, FL → Dallas, TX** generated the lowest at **$94.70K**.
+- **Charlotte, NC → Portland, OR** generated the highest total revenue at **$11.23M**, while **New York, NY → Philadelphia, PA** generated the lowest at **$348.73K**.
 
 ### Fleet Utilization
 
