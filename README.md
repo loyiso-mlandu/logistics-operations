@@ -23,7 +23,7 @@ The analysis covers eight key areas:
 
 ## 📊 Key Findings
 
-### Driver Performance
+## Driver Performance
 
 **Overall averages**
 
@@ -43,7 +43,7 @@ The analysis covers eight key areas:
 - **Barbara Moore** recorded the highest fuel efficiency at **6.56 MPG**; **Mary Williams** recorded the lowest at **6.44 MPG**.
 - **John Davis** recorded the highest revenue per mile at **$2.21**; **Robert Moore** recorded the lowest at **$2.09**.
 
-### Route Revenue
+## Route Revenue
 
 ### Average Revenue per Load
 
@@ -71,22 +71,22 @@ The analysis covers eight key areas:
 - **TRK00044** generated the highest total revenue at **$3.05M**, while **TRK00079** generated the lowest at **$2.53M**.
 - **TRK00044** also recorded the highest average revenue at **$84,602.99**, while **TRK00079** recorded the lowest at **$70,334.60**.
 
-### Maintenance Analysis
+## Maintenance Analysis
 
 *Analysis in progress.*
 
-### Fuel Efficiency
+## Fuel Efficiency
 
 *Analysis in progress.*
 
-### Customer Analysis
+## Customer Analysis
 
 *Analysis in progress.*
 
-### Safety Metrics
+## Safety Metrics
 
 *Analysis in progress.*
 
-### Seasonal Patterns
+## Seasonal Patterns
 
 *Analysis in progress.*
