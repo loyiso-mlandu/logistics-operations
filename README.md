@@ -8,7 +8,7 @@ The analysis covers eight key areas:
 
 1. **Driver Performance** — On-time delivery, fuel efficiency, and revenue per mile
 2. **Route Revenue** — Revenue by lane
-3. **Fleet Utilization** — Miles per truck and revenue per asset
+3. **Fleet Performance** — Miles per truck and revenue per asset
 4. **Maintenance Analysis** — Maintenance costs and vehicle downtime
 5. **Fuel Efficiency** — MPG trends and fuel costs by route
 6. **Customer Analysis** — Revenue, shipment volume, and service levels
@@ -59,9 +59,17 @@ The analysis covers eight key areas:
 - **Columbus, OH → Philadelphia, PA** generated the highest accessorial charges at **$115.10K**, while **Miami, FL → Dallas, TX** generated the lowest at **$94.70K**.
 - **Charlotte, NC → Portland, OR** generated the highest total revenue at **$11.23M**, while **New York, NY → Philadelphia, PA** generated the lowest at **$348.73K**.
 
-### Fleet Utilization
+## Fleet Performance
 
-*Analysis in progress.*
+### Miles per Truck
+
+- **TRK00055** recorded the highest total distance traveled at **1,417,530 miles**, while **TRK00040** recorded the lowest at **1,178,515 miles**.
+- **TRK00055** also recorded the highest average distance traveled at **39,376 miles**, while **TRK00040** recorded the lowest at **32,737 miles**.
+
+### Revenue per Truck
+
+- **TRK00044** generated the highest total revenue at **$3.05M**, while **TRK00079** generated the lowest at **$2.53M**.
+- **TRK00044** also recorded the highest average revenue at **$84,602.99**, while **TRK00079** recorded the lowest at **$70,334.60**.
 
 ### Maintenance Analysis
 
