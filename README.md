@@ -10,7 +10,7 @@ The analysis covers eight key areas:
 2. **Route Revenue** — Revenue by lane
 3. **Fleet Performance** — Miles per truck and revenue per asset
 4. **Maintenance Analysis** — Maintenance costs and vehicle downtime
-5. **Fuel Efficiency** — MPG trends and fuel costs by route
+5. **Fuel Efficiency** — MPG and Fuel Cost by Route
 6. **Customer Analysis** — Revenue, shipment volume, and service levels
 7. **Safety Metrics** — Incident rates and preventable accidents
 8. **Seasonal Patterns** — Load volume and rate fluctuations
@@ -79,7 +79,8 @@ The analysis covers eight key areas:
 
 ## Fuel Efficiency
 
-*Analysis in progress.*
+- **Columbus, OH → Philadelphia, PA** recorded the highest fuel spend at **$1.79M**, while **Charlotte, NC → Portland, OR** recorded the lowest at **$1.55M**.
+- **Atlanta, GA → Chicago, IL** recorded the highest average fuel efficiency at **6.54 MPG**, while **Kansas City, MO → Miami, FL** recorded the lowest at **6.47 MPG**.
 
 ## Customer Analysis
 
