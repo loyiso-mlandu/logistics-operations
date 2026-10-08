@@ -73,7 +73,9 @@ The analysis covers eight key areas:
 
 ## Maintenance Analysis
 
-*Analysis in progress.*
+- **TRK00003** recorded the highest total maintenance cost at **$90,161.42**, while **TRK00083** recorded the lowest at **$11,896.28**.
+- **TRK00003** also recorded the highest downtime at **1,133.1 hours**, while **TRK00083** recorded the lowest at **247.9 hours**.
+- **TRK00040** had the highest maintenance cost per mile at **$0.06**, while **TRK00083** had the lowest at **$0.01**.
 
 ## Fuel Efficiency
 
