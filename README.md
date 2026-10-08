@@ -11,7 +11,7 @@ The analysis covers eight key areas:
 3. **Fleet Performance** — Miles per truck and revenue per asset
 4. **Maintenance Analysis** — Maintenance costs and vehicle downtime
 5. **Fuel Efficiency** — MPG and Fuel Cost by Route
-6. **Customer Analysis** — Revenue, shipment volume, and service levels
+6. **Customer Analysis** — Revenue and Customer Profile
 7. **Safety Metrics** — Incident rates and preventable accidents
 8. **Seasonal Patterns** — Load volume and rate fluctuations
 
@@ -84,7 +84,12 @@ The analysis covers eight key areas:
 
 ## Customer Analysis
 
-*Analysis in progress.*
+- **XYZ Foods** generated the highest recorded revenue at **$1.76M**, while **First Group** generated the lowest at **$1.23M**.
+- **75 of 200 (37.5%)** customers are Contract customers.
+- **63 of 200 (31.5%)** customers are Spot customers.
+- **62 of 200 (31.0%)** customers are Dedicated customers.
+- **168 of 200 (84%)** customers are Active.
+- **32 of 200 (16%)** customers are Inactive.
 
 ## Safety Metrics
 
