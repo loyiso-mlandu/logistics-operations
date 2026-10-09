@@ -12,8 +12,7 @@ The analysis covers eight key areas:
 4. **Maintenance Analysis** — Maintenance costs and vehicle downtime
 5. **Fuel Efficiency** — MPG and Fuel Cost by Route
 6. **Customer Analysis** — Revenue and Customer Profile
-7. **Safety Metrics** — Incident rates and preventable accidents
-8. **Seasonal Patterns** — Load volume and rate fluctuations
+7. **Safety Analysis** — Incidents, Preventability, and Damage Costs
 
 ## 🛠️ Tools
 
@@ -93,8 +92,18 @@ The analysis covers eight key areas:
 
 ## Safety Metrics
 
-*Analysis in progress.*
+- **David Miller** recorded the highest number of incidents, with 7 incidents.
+- **Columbus, OH → Portland, OR** recorded the highest number of route-associated incidents, with 10 incidents.
+- **DOT violations** were the most common incident type, with 39 incidents.
+- **54 of 170 incidents (31.8%)** were attributed to driver fault.
+- **137 of 170 incidents (80.6%)** resulted in no injuries.
+- **64 of 170 incidents (37.6%)** were classified as preventable.
+- Moderate incidents commonly involved weather or traffic, while weather was also associated with severe incidents.
 
-## Seasonal Patterns
+**Financial Impact**
 
-*Analysis in progress.*
+| Metric | Total |
+|---|---:|
+| Vehicle damage costs | $1,603,561.11 |
+| Cargo damage costs | $1,049,610.71 |
+| Total claim amount | $2,653,171.82 |
