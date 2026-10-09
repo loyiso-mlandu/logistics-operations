@@ -4,7 +4,7 @@ An end-to-end logistics data analysis project using **PostgreSQL, SQL, and Power
 
 ## 🔎 Project Focus
 
-The analysis covers eight key areas:
+The analysis covers seven key areas:
 
 1. **Driver Performance** — On-time delivery, fuel efficiency, and revenue per mile
 2. **Route Revenue** — Revenue by lane
