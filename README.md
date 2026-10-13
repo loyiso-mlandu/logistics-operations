@@ -68,10 +68,25 @@ I used SQL to analyse the data and Power BI to build dashboards that make the re
 The report contains five pages:
 
 - **Executive Overview** — overall revenue, load volume, delivery performance, fuel efficiency and revenue by route.
+  
+  ![Executive Overview](power-bi/screenshots/executive-overview.png)
+  
 - **Driver Performance** — individual driver KPIs and monthly revenue trends.
+  
+  ![Driver Performance](power-bi/screenshots/driver-performance.png)
+  
 - **Fleet** — truck performance, fuel costs, maintenance and downtime.
+  
+  ![Fleet Performance](power-bi/screenshots/fleet.png)
+  
 - **Safety** — incident types, driver fault, preventability, injuries and damage costs.
+  
+  ![Safety Analysis](power-bi/screenshots/safety.png)
+
 - **Customers** — customer profiles, account status and revenue compared with potential revenue.
+  
+  ![Customer Analysis](power-bi/screenshots/customers.png)
+  
 
 The dashboards use KPI cards, charts and interactive filters to explore performance across the different areas.
 
