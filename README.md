@@ -6,6 +6,12 @@ This project looks at logistics operations data using PostgreSQL, SQL and Power 
 
 I used SQL to analyse the data and Power BI to build dashboards that make the results easier to explore.
 
+## Data Source
+
+- **Author:** Yogape Rodriguez
+- **Dataset:** [Synthetic Logistics Operations Database (2022–2024)](https://www.kaggle.com/datasets/yogape/logistics-operations-database)
+- **Platform:** Kaggle
+
 ## Tools Used
 
 - **PostgreSQL** — storing and querying the data
